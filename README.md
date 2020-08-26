@@ -24,7 +24,6 @@ There is a also an executable included. Built using pkinstaller( you don't have 
 To run app
 
 ```sh
-$ cd assessment
 $ python app.py
 ```
 
